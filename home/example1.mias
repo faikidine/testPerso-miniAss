@@ -1,0 +1,9 @@
+Var :
+x : int
+y : int
+z : int;
+
+Instr :
+mov x, 5
+add y, x
+sub z, 2;
