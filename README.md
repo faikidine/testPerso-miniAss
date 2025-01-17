@@ -114,7 +114,7 @@ Je pense que le problème vient de la fonction `declare_variables` dans le fichi
 
 Voici une capture d'écran montrant les erreurs dans le terminal :
 
-**[https://i.ibb.co/wpQcYYb/erreurcompil.png]**
+![Erreur de compilation](https://i.ibb.co/wpQcYYb/erreurcompil.png)
 ---
 
 ## 5. **Grammaire et génération de code**
